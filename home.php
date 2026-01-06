@@ -17,20 +17,17 @@
 					ห้องพักทันสมัย เฟอร์นิเจอร์อย่างดี และสุขภัณฑ์ครบครัน มีสิ่งอำนวยความสะดวกมากมาย
 					อาทิ WIFI อินเทอร์เน็ตความเร็วสูงทุกห้อง มีพัดลม และเครื่องปรับอากาศให้เลือก มีทีวี
 					คอมพิวเตอร์ให้เช่า
-
-					#แก้ code ที่ branch-issue 2
 				<p>
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>	
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a href="guest.php">สมุดเยี่ยม</li>
+				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
 		</tr>
 	</table>
-
 <body>
